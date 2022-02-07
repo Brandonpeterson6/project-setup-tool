@@ -45,8 +45,6 @@ form{
     border-style: none;
     justify-content: space-between;
 }
-.form-container-main{
-}
 #edit-fields-btn-containers{
     justify-content: space-between;
     display: flex;
